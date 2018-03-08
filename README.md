@@ -1,7 +1,7 @@
 www.fluxchess.com
 =================
 
-Copyright (C) 2017 Phokham Nonava  
+Copyright (C) 2017-2018 Phokham Nonava  
 https://github.com/fluxroot/fluxchess
 
 
